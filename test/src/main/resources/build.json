@@ -1,0 +1,8 @@
+{
+  "com.chsm.A": {
+    "com.chsm.C": "A-1.0.0-jar-with-dependencies.jar"
+  },
+  "com.chsm.B": {
+    "com.chsm.C": "B-1.0.0-jar-with-dependencies.jar"
+  }
+}

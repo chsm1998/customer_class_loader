@@ -1,0 +1,8 @@
+{
+  "com.chsm.A": {
+    "com.chsm.C": "1.0.0"
+  },
+  "com.chsm.B": {
+    "com.chsm.C": "2.0.0"
+  }
+}
